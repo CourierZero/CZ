@@ -11,23 +11,53 @@ Gain 1 Hour of Time in Flight
 Cost of Checked Bags - 
 Cost of Assigned Seating - 
 Staying in Hotels or Campgrounds
+Leaving from Las Vegas or Phoenix
+Visit Sedona on weekdays to avoid crowds?
 
 # Attractions
 ## Phoenix - City
+
 ## Phoenix - Outskirts
+
+Peralta Trail to Fremont Saddle (Weaver's Needle) (Busy)
+Flatiron (Climbing)
+Hieroglyphic Trail
+Boulder Canyon Trail
+Second Water and Hackberry Spring Loop
+
+## Saguaro NP (2 Hr Detour)
+
+
 ## Sedona
-### Hidden Canyon
+Secret Canyon
+Cathedral Rock
+**Devils Bridge
+Boynton Canyon
+Soldier Pass to Brins Mesa
+Courthouse Butte and Bell Rock
+Bear Mountain
+Fay Canyon to Arch
+West Fork (Oak Creek Canyon)
+Doe Mountain
+Little Horse Trail to Chicken Point
 
 ## Paria Canyon (Day Use Permit Required)
 ### Buckskin Gulch
 6 Miles
 ### The Wave
 6 Miles
+
+Antelope Canyon
+
 ## Zion NP
+2 Hrs to Vegas
 ## Grand Canyon
+Horseshoe Bend
+
 ## Vegas
-
-
+2 Hrs to  Zion
+Hoover Dam
+Shows
 
 # Schedule
 ##  Departure - Day 0
@@ -44,7 +74,7 @@ Friday, April 17th - Sunday, April 19th
 ### End - 
 ## Day 2 -
 17th - Sunday
-18th - 
+18th - Monday
 19th - Tuesday
 ### Start - 
 
