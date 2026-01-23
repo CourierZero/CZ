@@ -60,68 +60,40 @@ Hoover Dam
 Shows
 
 # Schedule
-##  Departure - Day 0
-Friday, April 17th - Sunday, April 19th
+## Day 1 - Saturday, April 18th
 ### Start - 
 
 ### End - 
-## Day 1 -
-17th - Saturday
-18th - 
-19th - Monday
+## Day 2 - Sunday, April 19th
 ### Start - 
 
 ### End - 
-## Day 2 -
-17th - Sunday
-18th - Monday
-19th - Tuesday
+## Day 3 - Monday, April 20th
 ### Start - 
 
 ### End - 
-## Day 3 -
-17th - Monday
-18th - 
-19th - Wednesday
+## Day 4 - Tuesday, April 21st
 ### Start - 
 
 ### End - 
-## Day 4 -
-17th - Tuesday
-18th - 
-19th - Thursday
+## Day 5 - Wednesday, April 22nd
 ### Start - 
 
 ### End - 
-## Day 5 -
-17th - Wednesday
-18th - 
-19th - Friday
+## Day 6 - Thursday, April 23rd
 ### Start - 
 
 ### End - 
-## Day 6 -
-17th - Thursday
-18th - 
-19th - Saturday
+## Day 7 - Friday, April 24th
 ### Start - 
 
 ### End - 
-## Day 7 - Earliest End
-17th - Friday
-18th - 
-19th - Sunday
+## Day 8 - Saturday, April 25th
+
 ### Start - 
 
 ### End - 
-## Day 8 -
-17th - Saturday
-18th - Sunday
-### Start - 
-
-### End - 
-## Day 9 - Latest End
-17th - Sunday
+## Day 9 - Sunday, April 26th
 ### Start - 
 
 ### End - 
