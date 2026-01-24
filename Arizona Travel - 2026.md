@@ -91,6 +91,7 @@ Sedona Stuff
 ### Start - Manzanita Campground, Sedona, AZ
 
 Sedona Stuff
+Munds Wagon, Cow Pies and Hangover Loop Trail (8.4 Miles)
 
 ### End - Manzanita Campground, Sedona, AZ
 ## Day 4 - Tuesday, April 21st
