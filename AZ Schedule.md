@@ -25,13 +25,13 @@ Point Trail and West Clear Creek (3.7 Miles)
 
 Sedona Stuff
 
-### End - Manzanita Campground, Sedona, AZ
+### End - Manzanita Campground, Site 16, Sedona, AZ
 ## Day 3 - Monday, April 20th
 ### Start - Manzanita Campground, Sedona, AZ
 
 Sedona Stuff
 
-### End - Manzanita Campground, Sedona, AZ
+### End - Manzanita Campground, Site 16, Sedona, AZ
 ## Day 4 - Tuesday, April 21st
 ### Start - Manzanita Campground, Sedona, AZ
 
@@ -42,10 +42,9 @@ Grand Canyon - South Kaibab Trail (2-6 Miles) (adds 1.75 hrs to route)
 
 (2..5 Hours to Page)
 
-Horseshoe Bend (1.5 Miles)
-Antelope Canyon (Requires Guided Tour)
+Horseshoe Bend (1.5 Miles
 
-### End - Page, AZ (Hotel?)
+### End - Lake Powell Resort, Page, AZ
 ## Day 5 - Wednesday, April 22nd
 ### Start - Page, AZ
 
@@ -58,12 +57,11 @@ Paria Canyon Stuff -
 
 Golden Wall/Buckhorn Loop (5 Miles)
 
-Bryce View Campground? (https://stateparks.utah.gov/parks/kodachrome-basin/bryce-view-campground/)
 Dispersed Camping (https://www.fs.usda.gov/sites/nfs/files/r04/dixie/publication/DispersedCamping-EastFork-Powell_0.pdf)
 
-### End - Bryce Canyon, UT
+### End - Kodachrome Basin, Arch Campground, Site A47
 ## Day 6 - Thursday, April 23rd
-### Start - Bryce Canyon, UT
+### Start - Kodachrome Basin, UT
 
 Wall Street, Queens Garden, Peekaboo Loop (6.5 Miles)
 
@@ -71,31 +69,28 @@ Wall Street, Queens Garden, Peekaboo Loop (6.5 Miles)
 
 Zion Stuff
 
-Ponderosa Grove Campground?
-
-### End - Zion, UT
+### End - BW East Zion Thunderbird Lodge, Mount Carmel, UT
 ## Day 7 - Friday, April 24th
-### Start - Zion, UT
+### Start - Mount Carmel, UT
 
 Zion Stuff
 
-### End - Zion, UT
+### End - Zion Canyon Campground, Site R27
 ## Day 8 - Saturday, April 25th
 ### Start - Zion, UT
 
 Zion Stuff
-
-(2 Hrs to Vegas)
-
+(3 Hrs)
 Valley of Fire - Fire Wave, White Domes and Seven Wonders Loop (3.5 Miles) 
+(1.5 Hrs)
 
-### End - Las Vegas, NV
+### End - BW Hoover Dam Hotel, Boulder City, NV
 ## Day 9 - Sunday, April 26th
 ### Start - Las Vegas, NV
 
-(.75 Hrs one way)
 Goldstrike Canyon Trail (5.5 Miles)
 Hoover Dam
+(.5 Hrs)
 
 17:00 - Depart Las Vegas
 22:30 - Arrive Appleton
