@@ -1,4 +1,9 @@
 # Schedule
+## Things to Book Still
+### Zion NP
+  Feb 1. The Subway Lottery - https://www.recreation.gov/permits/4251917
+  April 22-24. Angels Landing Permit - https://www.recreation.gov/permits/4675326
+
 ## Day 1 - Saturday, April 18th
 ### Start - Appleton, WI
 
