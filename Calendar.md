@@ -1,6 +1,5 @@
 Year | Date | Day | Note
 -|-|-|-
-2026 | 1/30 | ---Fri--- | Pillars' Holiday Party
 2026 | 1/31 | ///Sat/// | 
 2026 | 2/1 | ///Sun/// | Subway Lottery, WPLT
 ||||https://www.recreation.gov/permits/4251917
