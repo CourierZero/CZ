@@ -1,8 +1,5 @@
 Year | Date | Day | Note
 -|-|-|-
-2026 | 1/31 | ///Sat/// | 
-2026 | 2/1 | ///Sun/// | Subway Lottery, WPLT
-||||https://www.recreation.gov/permits/4251917
 2026 | 2/2 | ---Mon--- | WPLT
 2026 | 2/3 | ---Tue--- | All-Staff Meeting
 2026 | 2/4 | ---Wed--- | WPLT
@@ -28,7 +25,7 @@ Year | Date | Day | Note
 2026 | 2/24 | ---Tue--- | 
 2026 | 2/25 | ---Wed--- | 
 2026 | 2/26 | ---Thu--- | 
-2026 | 2/27 | ---Fri--- | 
+2026 | 2/27 | ---Fri--- | Subway Results Available
 2026 | 2/28 | ///Sat/// | 
 2026 | 3/1 | ///Sun/// | 
 2026 | 3/2 | ---Mon--- | 
