@@ -1,9 +1,9 @@
 Year | Date | Day | Note
 -|-|-|-
-2026 | 2/2 | ---Mon--- | WPLT
-2026 | 2/3 | ---Tue--- | All-Staff Meeting
-2026 | 2/4 | ---Wed--- | WPLT
-2026 | 2/5 | ---Thu--- | 
+2026 | 2/2 | ---Mon--- | 
+2026 | 2/3 | ---Tue--- | All-Staff Meeting, WPLT
+2026 | 2/4 | ---Wed--- | 
+2026 | 2/5 | ---Thu--- | WPLT
 2026 | 2/6 | ///Fri/// | Winter Carnival
 2026 | 2/7 | ///Sat/// | Winter Carnival
 2026 | 2/8 | ///Sun/// | Super Bowl
