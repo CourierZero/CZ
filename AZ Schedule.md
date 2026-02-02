@@ -1,8 +1,30 @@
 # Schedule
 ## Things to Book Still
 ### Zion NP
-  Feb 1. The Subway Lottery - https://www.recreation.gov/permits/4251917
   April 22-24. Angels Landing Permit - https://www.recreation.gov/permits/4675326
+
+
+## Sedona Things to Do
+Devils Bridge - Mescal Trailhead ok sunset, meh sunrise
+Fay Canyon - good sunrise
+Cathedral Rock Climb - Sunset
+Doe Mountain - Sunrise Hot Air Balloons
+Grizly Canyon
+Soldier Pass Cave
+Chopper Drop Canyon
+Illusions Canyon
+West Fork Trail
+
+
+Slide Rock State Park
+Red Rock State Park
+
+Sky Ranch Lodge overlook (Drive Up)
+
+Chapel of the Holy Cross
+
+Cowboy Something - Cactus Fries
+Sedonuts
 
 ## Day 1 - Saturday, April 18th
 ### Start - Appleton, WI
@@ -11,11 +33,9 @@
 11:00 - Arrive Mesa
 13:00 - Leave Mesa
 
-(.75 Hrs)
-
-Boulder Canyon Trail (5 Miles)
-
-(1.5 Hrs)
+Easy - Arnett Canyon / Picketpost Mountain
+Medium - Boulder Canyon
+Hard - Flatiron and Peak 5024
 
 19:00 - Arrive Cholla Campground
 
@@ -23,8 +43,9 @@ Boulder Canyon Trail (5 Miles)
 ## Day 2 - Sunday, April 19th
 ### Start - Cholla Campground, Roosevelt Lake, AZ
 
-Barnhardt Trail (6 Miles)
+Barnhardt Trail (6 Miles) (Big Kahuna Canyon)
 Point Trail and West Clear Creek (3.7 Miles)
+Bob Bear Falls - (5 Hrs) https://www.recreation.gov/permits/4251903
 
 (2.5 Hours to Sedona)
 
@@ -44,6 +65,7 @@ Sedona Stuff
 Wupatki National Monument (1 Mile)
 Humphrey Peak (Varying Lengths)
 Grand Canyon - South Kaibab Trail (2-6 Miles) (adds 1.75 hrs to route)
+  Garden Creek
 
 (2..5 Hours to Page)
 
