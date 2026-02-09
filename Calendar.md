@@ -1,10 +1,5 @@
 Year | Date | Day | Note
 -|-|-|-
-2026 | 2/5 | ---Thu--- | WPLT
-2026 | 2/6 | ///Fri/// | Winter Carnival
-2026 | 2/7 | ///Sat/// | Winter Carnival
-2026 | 2/8 | ///Sun/// | Super Bowl
-2026 | 2/9 | ---Mon--- | 
 2026 | 2/10 | ---Tue--- | 
 2026 | 2/11 | ---Wed--- | 
 2026 | 2/12 | ---Thu--- | 
