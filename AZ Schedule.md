@@ -45,7 +45,7 @@ Hard - Flatiron and Peak 5024
 
 Barnhardt Trail (6 Miles) (Big Kahuna Canyon)
 Point Trail and West Clear Creek (3.7 Miles)
-Bob Bear Falls - (5 Hrs) https://www.recreation.gov/permits/4251903
+March 1 - Bob Bear Falls - (5 Hrs) https://www.recreation.gov/permits/4251903
 
 (2.5 Hours to Sedona)
 
