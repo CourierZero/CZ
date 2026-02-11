@@ -1,10 +1,8 @@
 Year | Date | Day | Note
 -|-|-|-
-2026 | 2/10 | ---Tue--- | 
-2026 | 2/11 | ---Wed--- | 
-2026 | 2/12 | ---Thu--- | 
-2026 | 2/13 | ---Fri--- | Women's Hockey QF
-2026 | 2/14 | ///Sat/// | 
+2026 | 2/12 | ---Thu--- | Gloomhaven
+2026 | 2/13 | ---Fri--- | Women's Hockey QF, Door Estimate 4pm
+2026 | 2/14 | ///Sat/// | Stargazing?
 2026 | 2/15 | ///Sun/// | 
 2026 | 2/16 | ---Mon--- | 
 2026 | 2/17 | ---Tue--- | New Moon
