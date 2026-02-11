@@ -56,7 +56,7 @@ Year | Date | Day | Note
 2026 | 4/6 | ---Mon--- | 
 2026 | 4/7 | ---Tue--- | 
 2026 | 4/8 | ---Wed--- | 
-2026 | 4/9 | ---Thu--- | 
+2026 | 4/9 | ---Thu--- | Reserve Porcupine Mountain Sites - https://midnrreservations.com/
 2026 | 4/10 | ---Fri--- | 
 2026 | 4/11 | ///Sat/// | 
 2026 | 4/12 | ///Sun/// | 
@@ -240,9 +240,9 @@ Year | Date | Day | Note
 2026 | 10/6 | ---Tue--- | 
 2026 | 10/7 | ---Wed--- | 
 2026 | 10/8 | ---Thu--- | 
-2026 | 10/9 | ---Fri--- | 
-2026 | 10/10 | ///Sat/// | 
-2026 | 10/11 | ///Sun/// | 
+2026 | 10/9 | ---Fri--- | Porcupine Mountains
+2026 | 10/10 | ///Sat/// | Porcupine Mountains
+2026 | 10/11 | ///Sun/// | Porcupine Mountains
 2026 | 10/12 | ---Mon--- | 
 2026 | 10/13 | ---Tue--- | 
 2026 | 10/14 | ---Wed--- | 
