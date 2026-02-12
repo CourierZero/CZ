@@ -4,7 +4,7 @@ Year | Date | Day | Note
 2026 | 2/13 | ---Fri--- | Women's Hockey QF, Door Estimate 4pm
 2026 | 2/14 | ///Sat/// | Stargazing?
 2026 | 2/15 | ///Sun/// | 
-2026 | 2/16 | ---Mon--- | 
+2026 | 2/16 | ---Mon--- | Door Estimate - 3pm
 2026 | 2/17 | ---Tue--- | New Moon
 2026 | 2/18 | ---Wed--- | Men's Hockey QF
 2026 | 2/19 | ---Thu--- | 
