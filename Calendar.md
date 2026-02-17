@@ -1,16 +1,11 @@
 Year | Date | Day | Note
 -|-|-|-
-2026 | 2/12 | ---Thu--- | Gloomhaven
-2026 | 2/13 | ---Fri--- | Women's Hockey QF, Door Estimate 4pm
-2026 | 2/14 | ///Sat/// | Stargazing?
-2026 | 2/15 | ///Sun/// | 
-2026 | 2/16 | ---Mon--- | Door Estimate - 3pm
 2026 | 2/17 | ---Tue--- | New Moon
 2026 | 2/18 | ---Wed--- | Men's Hockey QF
-2026 | 2/19 | ---Thu--- | 
-2026 | 2/20 | ---Fri--- | 
-2026 | 2/21 | ///Sat/// | Brewers' Spring Training
-2026 | 2/22 | ///Sun/// | 
+2026 | 2/19 | ---Thu--- | Women's Finals
+2026 | 2/20 | ---Fri--- | Men's SF
+2026 | 2/21 | ///Sat/// | Brewers' Spring Training, Men's Bronze, Mason Climbing?
+2026 | 2/22 | ///Sun/// | Men's Gold
 2026 | 2/23 | ---Mon--- | 
 2026 | 2/24 | ---Tue--- | 
 2026 | 2/25 | ---Wed--- | 
