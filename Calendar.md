@@ -1,8 +1,5 @@
 Year | Date | Day | Note
 -|-|-|-
-2026 | 2/17 | ---Tue--- | New Moon
-2026 | 2/18 | ---Wed--- | Men's Hockey QF
-2026 | 2/19 | ---Thu--- | Women's Finals
 2026 | 2/20 | ---Fri--- | Men's SF
 2026 | 2/21 | ///Sat/// | Brewers' Spring Training, Men's Bronze, Mason Climbing?
 2026 | 2/22 | ///Sun/// | Men's Gold
