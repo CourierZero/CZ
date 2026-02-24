@@ -1,10 +1,5 @@
 Year | Date | Day | Note
 -|-|-|-
-2026 | 2/20 | ---Fri--- | Men's SF
-2026 | 2/21 | ///Sat/// | Brewers' Spring Training, Men's Bronze, Mason Climbing?
-2026 | 2/22 | ///Sun/// | Men's Gold
-2026 | 2/23 | ---Mon--- | 
-2026 | 2/24 | ---Tue--- | 
 2026 | 2/25 | ---Wed--- | 
 2026 | 2/26 | ---Thu--- | 
 2026 | 2/27 | ---Fri--- | Subway Results Available
