@@ -37,6 +37,9 @@ Easy - Arnett Canyon / Picketpost Mountain
 Medium - Boulder Canyon
 Hard - Flatiron and Peak 5024
 
+Other 1 - Perlata Canyon to Fremont Saddle (Weavers Needle) (4.6 Miles)
+Other 2 - Fat Iron (Siphon Draw) (6 Miles Hard)
+
 19:00 - Arrive Cholla Campground
 
 ### End - Cholla Campground, Roosevelt Lake, AZ
@@ -101,6 +104,12 @@ Zion Stuff
 ### Start - Mount Carmel, UT
 
 Zion Stuff
+The Narrows (1-10 Hrs) Best on Hot Day (Very Busy)
+Observation Point (2.5 Hours) 6.7 Miles
+Pa'rus Trail (3.5 Miles, Flat, Easy, Water)
+Northgate Peaks (6 Miles, Quiet)
+Hop Valley to Kolob Arch (14 Miles, Sandy, Quiet)
+Watchman Trail (3 Miles, Quick but sorta Meh)
 
 ### End - Zion Canyon Campground, Site R27
 ## Day 8 - Saturday, April 25th
