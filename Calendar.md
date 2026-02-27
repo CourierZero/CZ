@@ -1,7 +1,5 @@
 Year | Date | Day | Note
 -|-|-|-
-2026 | 2/25 | ---Wed--- | 
-2026 | 2/26 | ---Thu--- | 
 2026 | 2/27 | ---Fri--- | Subway Results Available
 2026 | 2/28 | ///Sat/// | 
 2026 | 3/1 | ///Sun/// | 
@@ -34,11 +32,11 @@ Year | Date | Day | Note
 2026 | 3/28 | ///Sat/// | 
 2026 | 3/29 | ///Sun/// | 
 2026 | 3/30 | ---Mon--- | 
-2026 | 3/31 | ---Tue--- | 
+2026 | 3/31 | ---Tue--- | Last Day for T-Rats Parking Pass Discount
 2026 | 4/1 | ---Wed--- | 
 2026 | 4/2 | ---Thu--- | T-Rats Opening Day
 2026 | 4/3 | ---Fri--- | 
-2026 | 4/4 | ///Sat/// | 
+2026 | 4/4 | ///Sat/// | ?? T-Rats Sal Jersey
 2026 | 4/5 | ///Sun/// | 
 2026 | 4/6 | ---Mon--- | 
 2026 | 4/7 | ---Tue--- | 
@@ -108,7 +106,7 @@ Year | Date | Day | Note
 2026 | 6/9 | ---Tue--- | T-Rats
 2026 | 6/10 | ---Wed--- | 
 2026 | 6/11 | ---Thu--- | 
-2026 | 6/12 | ---Fri--- | 
+2026 | 6/12 | ---Fri--- | ?? T-Rats Made Jersey
 2026 | 6/13 | ///Sat/// | 
 2026 | 6/14 | ///Sun/// | New Moon
 2026 | 6/15 | ---Mon--- | 
@@ -121,8 +119,8 @@ Year | Date | Day | Note
 2026 | 6/22 | ---Mon--- | 
 2026 | 6/23 | ---Tue--- | T-Rats
 2026 | 6/24 | ---Wed--- | 
-2026 | 6/25 | ---Thu--- | 
-2026 | 6/26 | ---Fri--- | 
+2026 | 6/25 | ---Thu--- | ?? T-Rats Udder Tugger Sticker
+2026 | 6/26 | ---Fri--- | ?? T-Rats Miz Jersey
 2026 | 6/27 | ///Sat/// | 
 2026 | 6/28 | ///Sun/// | 
 2026 | 6/29 | ---Mon--- | 
@@ -138,7 +136,7 @@ Year | Date | Day | Note
 2026 | 7/9 | ---Thu--- | 
 2026 | 7/10 | ---Fri--- | 
 2026 | 7/11 | ///Sat/// | 
-2026 | 7/12 | ///Sun/// | 
+2026 | 7/12 | ///Sun/// | ?? T-Rats Brewers Hat
 2026 | 7/13 | ---Mon--- | 
 2026 | 7/14 | ---Tue--- | 
 2026 | 7/15 | ---Wed--- | 
@@ -159,7 +157,7 @@ Year | Date | Day | Note
 2026 | 7/30 | ---Thu--- | 
 2026 | 7/31 | ---Fri--- | 
 2026 | 8/1 | ///Sat/// | 
-2026 | 8/2 | ///Sun/// | 
+2026 | 8/2 | ///Sun/// | ?? T-Rats Seat Cushion
 2026 | 8/3 | ---Mon--- | 
 2026 | 8/4 | ---Tue--- | 
 2026 | 8/5 | ---Wed--- | Naruto Jersey Brewer's Game
@@ -178,7 +176,7 @@ Year | Date | Day | Note
 2026 | 8/18 | ---Tue--- | T-Rats
 2026 | 8/19 | ---Wed--- | 
 2026 | 8/20 | ---Thu--- | 
-2026 | 8/21 | ---Fri--- | 
+2026 | 8/21 | ---Fri--- | ?? T-Rats Hat Giveaway
 2026 | 8/22 | ///Sat/// | 
 2026 | 8/23 | ///Sun/// | 
 2026 | 8/24 | ---Mon--- | 
