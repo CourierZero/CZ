@@ -38,7 +38,7 @@ Medium - Boulder Canyon
 Hard - Flatiron and Peak 5024
 
 Other 1 - Perlata Canyon to Fremont Saddle (Weavers Needle) (4.6 Miles)
-Other 2 - Fat Iron (Siphon Draw) (6 Miles Hard)
+Other 2 - Flat Iron (Siphon Draw) (6 Miles Hard)
 
 19:00 - Arrive Cholla Campground
 
@@ -59,6 +59,17 @@ Sedona Stuff
 ### Start - Manzanita Campground, Sedona, AZ
 
 Sedona Stuff
+- Secret Canyon  
+- Cathedral Rock  (Busy)
+- Devils Bridge  (Busy)
+- Boynton Canyon  (Subway Cave)
+- Soldier Pass to Brins Mesa  
+- Courthouse Butte and Bell Rock  
+- Bear Mountain  
+- Fay Canyon to Arch  
+- ** West Fork (Oak Creek Canyon)  
+- Doe Mountain  
+- Little Horse Trail to Chicken Point
 
 ### End - Manzanita Campground, Site 16, Sedona, AZ
 ## Day 4 - Tuesday, April 21st
@@ -126,6 +137,11 @@ Valley of Fire - Fire Wave, White Domes and Seven Wonders Loop (3.5 Miles)
 
 Goldstrike Canyon Trail (5.5 Miles)
 Hoover Dam
+Red Rock Canyon National Conservation Area
+- Calico Tank
+- Calico Hills
+- Keystone Thrust
+- Ice Box Canyon
 (.5 Hrs)
 
 17:00 - Depart Las Vegas
