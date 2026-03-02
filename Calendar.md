@@ -1,29 +1,27 @@
 Year | Date | Day | Note
 -|-|-|-
-2026 | 2/27 | ---Fri--- | Subway Results Available
-2026 | 2/28 | ///Sat/// | 
 2026 | 3/1 | ///Sun/// | 
 2026 | 3/2 | ---Mon--- | 
-2026 | 3/3 | ---Tue--- | World Baseball Classic 
-2026 | 3/4 | ---Wed--- | 
+2026 | 3/3 | ---Tue--- | World Baseball Classic 2pm GBR vs Brewers
+2026 | 3/4 | ---Wed--- | Brewers 2pm
 2026 | 3/5 | ---Thu--- | 
 2026 | 3/6 | ---Fri--- | Bugonia
 2026 | 3/7 | ///Sat/// | 
 2026 | 3/8 | ///Sun/// | 
-2026 | 3/9 | ---Mon--- | 
+2026 | 3/9 | ---Mon--- | Brewers 3pm
 2026 | 3/10 | ---Tue--- | 
 2026 | 3/11 | ---Wed--- | 
 2026 | 3/12 | ---Thu--- | 
-2026 | 3/13 | ---Fri--- | 
+2026 | 3/13 | ---Fri--- | WBC QF Start 5:30pm
 2026 | 3/14 | ///Sat/// | Bugonia
 2026 | 3/15 | ///Sun/// | 
 2026 | 3/16 | ---Mon--- | 
 2026 | 3/17 | ---Tue--- | 
-2026 | 3/18 | ---Wed--- | New Moon
+2026 | 3/18 | ---Wed--- | New Moon, Brewers 3pm
 2026 | 3/19 | ---Thu--- | 
-2026 | 3/20 | ---Fri--- | 
-2026 | 3/21 | ///Sat/// | 
-2026 | 3/22 | ///Sun/// | 
+2026 | 3/20 | ---Fri--- | Brewers 4pm
+2026 | 3/21 | ///Sat/// | Brewers 3pm
+2026 | 3/22 | ///Sun/// | Brewers 2pm
 2026 | 3/23 | ---Mon--- | 
 2026 | 3/24 | ---Tue--- | 
 2026 | 3/25 | ---Wed--- | 
