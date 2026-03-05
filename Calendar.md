@@ -1,6 +1,5 @@
 Year | Date | Day | Note
 -|-|-|-
-2026 | 3/4 | Wed | Brewers 2pm
 2026 | 3/5 | Thu | Trout Museum of Art
 2026 | 3/6 | Fri | Bugonia
 2026 | 3/7 | ***Sat*** | 
