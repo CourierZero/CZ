@@ -30,7 +30,7 @@ Year | Date | Day | Note
 2026 | 3/31 | Tue | Last Day for T-Rats Parking Pass Discount
 2026 | 4/1 | Wed | 
 2026 | 4/2 | Thu | T-Rats Opening Day
-2026 | 4/3 | Fri | 
+2026 | 4/3 | Fri | T-Rats
 2026 | 4/4 | ***Sat*** | ?? T-Rats Sal Jersey
 2026 | 4/5 | ***Sun*** | 
 2026 | 4/6 | Mon | 
