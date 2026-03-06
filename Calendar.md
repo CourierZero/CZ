@@ -1,6 +1,5 @@
 Year | Date | Day | Note
 -|-|-|-
-2026 | 3/5 | Thu | Trout Museum of Art
 2026 | 3/6 | Fri | Bugonia
 2026 | 3/7 | ***Sat*** | 
 2026 | 3/8 | ***Sun*** | Sinners 7pm
