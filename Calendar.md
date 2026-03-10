@@ -2,7 +2,7 @@ Year | Date | Day | Note
 -|-|-|-
 2026 | 3/10 | Tue | 
 2026 | 3/11 | Wed | 
-2026 | 3/12 | Thu | 
+2026 | 3/12 | Thu | Gloomhaven
 2026 | 3/13 | Fri | WBC QF Start 5:30pm
 2026 | 3/14 | ***Sat*** | Bugonia
 2026 | 3/15 | ***Sun*** | 
