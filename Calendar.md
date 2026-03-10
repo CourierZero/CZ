@@ -1,9 +1,5 @@
 Year | Date | Day | Note
 -|-|-|-
-2026 | 3/6 | Fri | Bugonia
-2026 | 3/7 | ***Sat*** | 
-2026 | 3/8 | ***Sun*** | Sinners 7pm
-2026 | 3/9 | Mon | Brewers 3pm
 2026 | 3/10 | Tue | 
 2026 | 3/11 | Wed | 
 2026 | 3/12 | Thu | 
