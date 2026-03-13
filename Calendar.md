@@ -1,12 +1,9 @@
 Year | Date | Day | Note
 -|-|-|-
-2026 | 3/10 | Tue | 
-2026 | 3/11 | Wed | 
-2026 | 3/12 | Thu | Gloomhaven
 2026 | 3/13 | Fri | WBC QF Start 5:30pm
 2026 | 3/14 | ***Sat*** | 
 2026 | 3/15 | ***Sun*** | 
-2026 | 3/16 | Mon | 
+2026 | 3/16 | Mon | Thedacare 3pm
 2026 | 3/17 | Tue | 
 2026 | 3/18 | Wed | New Moon, Brewers 3pm
 2026 | 3/19 | Thu | 
