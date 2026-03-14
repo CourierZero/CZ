@@ -14,3 +14,6 @@ Picnic date TBD (Mid-Augustish?)
 7/28
 8/18
 8/25
+
+Winnebago Media group donation
+Early voting and registration /absentee 
