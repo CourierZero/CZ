@@ -1,18 +1,5 @@
 Year | Date | Day | Note
 -|-|-|-
-2026 | 3/13 | Fri | WBC QF Start 5:30pm
-2026 | 3/14 | ***Sat*** | 
-2026 | 3/15 | ***Sun*** | 
-2026 | 3/16 | Mon | Thedacare 3pm
-2026 | 3/17 | Tue | 
-2026 | 3/18 | Wed | New Moon, Brewers 3pm
-2026 | 3/19 | Thu | 
-2026 | 3/20 | Fri | Brewers 4pm
-2026 | 3/21 | ***Sat*** | Brewers 3pm
-2026 | 3/22 | ***Sun*** | Brewers 2pm
-2026 | 3/23 | Mon | 
-2026 | 3/24 | Tue | 
-2026 | 3/25 | Wed | 
 2026 | 3/26 | Thu | Brewers' Opening Day
 2026 | 3/27 | Fri | 
 2026 | 3/28 | ***Sat*** | 
@@ -98,7 +85,7 @@ Year | Date | Day | Note
 2026 | 6/15 | Mon | 
 2026 | 6/16 | Tue | 
 2026 | 6/17 | Wed | 
-2026 | 6/18 | Thu | 
+2026 | 6/18 | Thu | ThedaCare 3pm
 2026 | 6/19 | Fri | 
 2026 | 6/20 | ***Sat*** | 
 2026 | 6/21 | ***Sun*** | 
@@ -120,14 +107,14 @@ Year | Date | Day | Note
 2026 | 7/7 | Tue | T-Rats
 2026 | 7/8 | Wed | 
 2026 | 7/9 | Thu | 
-2026 | 7/10 | Fri | 
+2026 | 7/10 | Fri | Birthday
 2026 | 7/11 | ***Sat*** | 
 2026 | 7/12 | ***Sun*** | ?? T-Rats Brewers Hat
 2026 | 7/13 | Mon | 
 2026 | 7/14 | Tue | 
 2026 | 7/15 | Wed | 
 2026 | 7/16 | Thu | 
-2026 | 7/17 | Fri | 
+2026 | 7/17 | Fri | The Odyssey
 2026 | 7/18 | ***Sat*** | 
 2026 | 7/19 | ***Sun*** | 
 2026 | 7/20 | Mon | 
@@ -204,7 +191,7 @@ Year | Date | Day | Note
 2026 | 9/29 | Tue | 
 2026 | 9/30 | Wed | 
 2026 | 10/1 | Thu | 
-2026 | 10/2 | Fri | 
+2026 | 10/2 | Fri | Digger Movie
 2026 | 10/3 | ***Sat*** | 
 2026 | 10/4 | ***Sun*** | 
 2026 | 10/5 | Mon | 
@@ -253,7 +240,7 @@ Year | Date | Day | Note
 2026 | 11/17 | Tue | 
 2026 | 11/18 | Wed | 
 2026 | 11/19 | Thu | 
-2026 | 11/20 | Fri | 
+2026 | 11/20 | Fri | Hunger Games Movie
 2026 | 11/21 | ***Sat*** | 
 2026 | 11/22 | ***Sun*** | 
 2026 | 11/23 | Mon | 
@@ -281,7 +268,7 @@ Year | Date | Day | Note
 2026 | 12/15 | Tue | 
 2026 | 12/16 | Wed | 
 2026 | 12/17 | Thu | 
-2026 | 12/18 | Fri | 
+2026 | 12/18 | Fri | Dune 3 & Avengers
 2026 | 12/19 | ***Sat*** | 
 2026 | 12/20 | ***Sun*** | 
 2026 | 12/21 | Mon | 
