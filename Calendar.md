@@ -1,19 +1,5 @@
 Year | Date | Day | Note
 -|-|-|-
-2026 | 3/26 | Thu | Brewers' Opening Day
-2026 | 3/27 | Fri | 
-2026 | 3/28 | ***Sat*** | 
-2026 | 3/29 | ***Sun*** | 
-2026 | 3/30 | Mon | 
-2026 | 3/31 | Tue | Last Day for T-Rats Parking Pass Discount
-2026 | 4/1 | Wed | 
-2026 | 4/2 | Thu | T-Rats Opening Day
-2026 | 4/3 | Fri | T-Rats
-2026 | 4/4 | ***Sat*** | ?? T-Rats Sal Jersey
-2026 | 4/5 | ***Sun*** | 
-2026 | 4/6 | Mon | 
-2026 | 4/7 | Tue | 
-2026 | 4/8 | Wed | 
 2026 | 4/9 | Thu | Reserve Porcupine Mountain Sites - https:-midnrreservations.com/
 2026 | 4/10 | Fri | 
 2026 | 4/11 | ***Sat*** | Brewers Bus - 12:30
