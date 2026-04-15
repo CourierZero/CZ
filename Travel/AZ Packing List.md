@@ -1,0 +1,77 @@
+## Hygiene
+- [ ] Toothbrush
+- [ ] Toothpaste
+- [ ] Deodorant
+- [ ] Floss
+- [ ] Soap
+- [ ] Washcloths
+- [ ] Disposable Washcloths
+- [ ] Hair Paste
+## Clothes
+- [ ] Underwear x8
+- [ ] Socks x8
+- [ ] T-Shirts x5
+- [ ] Sunhoodies x2
+- [ ] Mesh Shirt
+- [ ] Regular Hoodie
+- [ ] Pants
+- [ ] Shorts
+- [ ] Swim Trunks
+- [ ] Hat
+- [ ] Rain Jacket
+- [ ] Camp Slippers
+- [ ] Shoes x2?
+## Camp Supplies
+- [ ] Chair??
+- [ ] Tent
+- [ ] Sleeping Pad
+- [ ] Sleeping Bag Liner / Sheet
+- [ ] Tarp / Stakes
+- [ ] Stove / Pot
+## Food
+- [ ] 
+## Misc
+- [ ] Camera
+- [ ] Camera Charger
+- [ ] Lens x 3
+- [ ] Cloth
+- [ ] SD Cards
+- [ ] Phone Charger
+- [ ] Battery Packs x2
+- [ ] Kindle
+- [ ] Earbuds
+## Shopping List
+- [ ] Hotdogs
+- [ ] Buns
+- [ ] Mustard
+- [ ] Onions
+- [ ] Kielbasa
+- [ ] Potatoes
+- [ ] Peppers
+- [ ] Asparagus
+- [ ] Butter
+- [ ] Salt
+- [ ] Pepper
+- [ ] Water
+- [ ] Zucchini
+- [ ] Bread
+- [ ] Sandwich Meats
+- [ ] Cheese
+- [ ] Chicken
+- [ ] Instant Rice
+- [ ] Beans
+- [ ] Broccoli
+- [ ] ------------------------
+- [ ] Cutting Board
+- [ ] Knife
+- [ ] Cooler
+- [ ] Ice
+- [ ] Foil
+- [ ] Soap
+- [ ] ------------------------
+- [ ] Cous Cous
+- [ ] Tuna
+- [ ] Tortillas
+- [ ] PB
+- [ ] Jelly
+- [ ] 
