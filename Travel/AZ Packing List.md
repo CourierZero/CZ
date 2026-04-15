@@ -68,6 +68,8 @@
 - [ ] Ice
 - [ ] Foil
 - [ ] Soap
+- [ ] Trash Bags
+- [ ] Pot/Pan
 - [ ] ------------------------
 - [ ] Cous Cous
 - [ ] Tuna
