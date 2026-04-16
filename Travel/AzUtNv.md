@@ -1,3 +1,15 @@
+# Notes
+### Cholla Campground is FCFS, Alternates Nearby
+### 2 Sunrises I'd like to see in Sedona and Bryce Canyon (5 am)
+### The Wave Permit:
+Apply Monday
+[The Wave Permit](https://www.recreation.gov/permits/4251909)
+------- [Pickup Here](https://maps.app.goo.gl/pWbazDyDY8z6FGPq8)
+### Angels Landing Permit:
+Apply Thursday and Friday
+[Angels Landing Permit](https://www.recreation.gov/permits/4675310)
+------ Downloadable
+
 ## Weather - Sunny all week, Highs of 56-91, Lows 25 - 66
 ### Saturday - Mesa - 91/66, Roosevelt Lake 86/57
 ### Sunday - Sedona - 79/54
@@ -53,6 +65,7 @@ or
 [Manzanita Campground - Site 16](https://maps.app.goo.gl/FFbb9xfERrbLK6C99)
 
 Alternates:
+Sedona Trails
 Barnhardt Trail
 Fossil Creek
 Anna Mae
@@ -74,7 +87,11 @@ Cyprus Trail
 - Doe Mountain  - 1.5 to 2.5 Miles
 - Little Horse Trail to Chicken Point - 4 Miles
 - Secret Slick Rock - 0.8 Miles
-- 
+
+[The Wave Permit](https://www.recreation.gov/permits/4251909)
+-------[Pickup Here](https://maps.app.goo.gl/pWbazDyDY8z6FGPq8)
+
+
 ### End - Manzanita Campground, Site 16, Sedona, AZ
 ## Tuesday - Sedona > GC? > Page
 ### Start - Manzanita Campground, Sedona, AZ
@@ -84,27 +101,116 @@ Sedona Stuff
 Leave
 \>\> 2 Hrs
 [S Kaibab Trail (2-6 Miles)](https://maps.app.goo.gl/ztWJBuKs1sabrPku5)
-\>\> 2.25 Hrs
-[Horseshoe Bend](https://maps.app.goo.gl/u2saHNTabFQaiDQXA)
+\>\> 2.5 Hrs
+[Horseshoe Bend (1.5 Miles)](https://maps.app.goo.gl/u2saHNTabFQaiDQXA)
 \>\> 15 Min
 [Lake Powell Resort](https://maps.app.goo.gl/vuXJsusaBdHBk9Cy8)
 
 or
 
-
-Wupatki National Monument (1 Mile)  
-Humphrey Peak (Varying Lengths)  
-Grand Canyon - South Kaibab Trail (2-6 Miles) (adds 1.75 hrs to route)
-
-(2..5 Hours to Page)
-
-Horseshoe Bend (1.5 Miles)  
-
+Leave
+\>\> 1.25 Hrs
+[Wupatki National Monument (Multiple 1 Mile Trails)  ](https://maps.app.goo.gl/dP49suxyWDqW5Kce7)
+\>\> 1.75 Hrs
+[Cathedral Wash (3.5 Miles)](https://maps.app.goo.gl/kKYSzdEKSXWs7dvG8)
+\>\> 45 Min
+[Horseshoe Bend (1.5 Miles)](https://maps.app.goo.gl/u2saHNTabFQaiDQXA)
+\>\> 15 Min
 [Lake Powell Resort](https://maps.app.goo.gl/vuXJsusaBdHBk9Cy8)
+
+Alternates: 
+Walnut Canyon National Monument
+Sunset Crate National Monument
 
 ### End - Lake Powell Resort - Page, AZ
 ## Wednesday - Page > Bryce Canyon
+### Start - Lake Powell Resort - Page, AZ
+
+Paria Canyon Stuff - 
+\>\> 1 Hr
+[Buckskin Gulch via Wire Pass (6 Miles)](https://maps.app.goo.gl/VLhUyjooko4saoLH7)
+\>\> 15 Min 
+[?? Need Permit - The Wave (5 Miles)  ](https://maps.app.goo.gl/GRY8VLZbXyw8itFw7)
+\>\>1.25 Hrs
+[Lower Hackberry Canyon Trailhead(4-9 Miles)](https://maps.app.goo.gl/9rPWayoe3ax15RJf9)
+\>\> 45 Mins
+[Grosvenor Arch (0.2 Miles)](https://maps.app.goo.gl/TUkWGkeY353JGR3v5)
+\>\> 30 Mins
+[Kodachrome Basin State Park (Site A47)](https://maps.app.goo.gl/V6caQ5jrCob4APi66)
+
+Alternates: 
+White Pocket
+Cottonwood Narrows South (3.3 Miles)
+Golden Wall/Buckhorn Loop (5 Miles)
+
+### End - Kodachrome Basin State Park, Henrieville, UT
 ## Thursday - Bryce > Zion
+### Start - Kodachrome Basin State Park, Henrieville, UT
+
+\>\> 45 Minutes
+[Figure 8 Loop in Bryce Canyon (6.4 Miles)](https://maps.app.goo.gl/nPBzk7XvWxtDJLcv9)
+\>\> 45 min
+[Rainbow Point (Drive)](https://maps.app.goo.gl/1jgzbUM8MCW8aZ747)
+\>\>1.5 Hrs
+Food/Groceries in Orderville/Glendale?
+\>\> 45 Mins
+[The Watchman Trail (3.3 Miles)](https://maps.app.goo.gl/zriDQnVfezxwQVEw5)
+\>\>5 Mins
+[Zion Canyon Campground (Site R27)](https://maps.app.goo.gl/eCrX5B94EWqgFvtcA)
+
+Alternates:
+Golden Wall/Buckhorn Loop (5 Miles)
+
+### End - Zion Canyon Campground, Springdale, UT
 ## Friday - Zion 
+### Start - Zion Canyon Campground, Springdale, UT
+
+Whole Buncha Zion Shit:
+https://www.citrusmilo.com/zionguide/bestzionhikes.php
+Angels Landing (4.7 Miles)
+Emerald Pools (3 Miles)
+Canyon Overlook (1 Mile)
+Many Pools (2.1 Miles)
+**Observation point via East Mesa (7 Miles)
+The Narrows Floating Rock (6.4 Miles)
+Double Arch (5.1 Miles)
+Northgate Peaks (6 Miles)
+
+
+
+### End - Zion Canyon Campground, Springdale, UT
 ## Saturday - Zion > Boulder City
+### Start - Zion Canyon Campground, Springdale, UT
+
+Leave
+\>\> 1 Hr
+[Turtle Wall (4 Miles)](https://maps.app.goo.gl/bjDCFQu4H8mzkoc86)
+\>\> 1.75 Hrs
+[Valley of Fire Trails (3.5 Miles)](https://maps.app.goo.gl/HCMME3bpunM9efTt8)
+\>\> 1.5 Hrs
+[Best Western Hoover Dam Hotel](https://maps.app.goo.gl/e2nJEjqJj9bMK35e8)
+
+Alternates:
+[Snow Canyon (3.5 Miles)](https://maps.app.goo.gl/bjDCFQu4H8mzkoc86)
+
+### End - Best Western Hoover Dam Hotel, Boulder City, NV
 ## Sunday - Boulder City > Hoover Dam > Las Vegas
+### Start - Best Western Hoover Dam Hotel, Boulder City, NV
+
+Leave
+\>\> 15 Minutes
+[Goldstrike Canyon trail (5.5 Miles)](https://maps.app.goo.gl/Q4XLZ4ki56BZjBG3A)
+Hoover Dam
+13:00 Be Done
+\>\> 45 Minutes
+[Las Vegas Airport](https://maps.app.goo.gl/g8DnAExueSipF7ct5)
+17:00 - Flight Departs
+23:00 - Flight Arrives
+
+Alternates:
+Historic Railroad Tunnel Trail (8.2 Miles)
+Ringbolt Hot Springs (4-6 Miles)
+Liberty Bell Arch (5.1 Miles)
+
+### End - Appleton, WI
+
