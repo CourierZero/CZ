@@ -2,7 +2,7 @@
 - [x] Toothbrush
 - [x] Toothpaste
 - [ ] Deodorant
-- [ ] Floss
+- [x] Floss
 - [ ] Soap
 - [ ] Washcloths
 - [ ] Disposable Washcloths
