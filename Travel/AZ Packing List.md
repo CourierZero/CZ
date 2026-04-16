@@ -27,7 +27,7 @@
 - [x] Sleeping Pad
 - [ ] Sleeping Bag Liner / Sheet
 - [x] Tarp / Stakes
-- [ ] Stove / Pot
+- [x] Stove / Pot
 ## Food
 - [ ] 
 ## Misc
