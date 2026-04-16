@@ -80,6 +80,18 @@ Cyprus Trail
 ### Start - Manzanita Campground, Sedona, AZ
 
 Sedona Stuff  
+
+Leave
+\>\> 2 Hrs
+[S Kaibab Trail (2-6 Miles)](https://maps.app.goo.gl/ztWJBuKs1sabrPku5)
+\>\> 2.25 Hrs
+[Horseshoe Bend](https://maps.app.goo.gl/u2saHNTabFQaiDQXA)
+\>\> 15 Min
+[Lake Powell Resort](https://maps.app.goo.gl/vuXJsusaBdHBk9Cy8)
+
+or
+
+
 Wupatki National Monument (1 Mile)  
 Humphrey Peak (Varying Lengths)  
 Grand Canyon - South Kaibab Trail (2-6 Miles) (adds 1.75 hrs to route)
