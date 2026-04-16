@@ -1,11 +1,11 @@
 ## Hygiene
-- [ ] Toothbrush
-- [ ] Toothpaste
-- [ ] Deodorant
-- [ ] Floss
-- [ ] Soap
+- [x] Toothbrush
+- [x] Toothpaste
+- [x] Deodorant
+- [x] Floss
+- [x] Soap
 - [ ] Washcloths
-- [ ] Disposable Washcloths
+- [x] Disposable Washcloths
 - [ ] Hair Paste
 ## Clothes
 - [ ] Underwear x8
@@ -23,11 +23,11 @@
 - [ ] Shoes x2?
 ## Camp Supplies
 - [ ] Chair??
-- [ ] Tent
-- [ ] Sleeping Pad
+- [x] Tent
+- [x] Sleeping Pad
 - [ ] Sleeping Bag Liner / Sheet
-- [ ] Tarp / Stakes
-- [ ] Stove / Pot
+- [x] Tarp / Stakes
+- [x] Stove / Pot
 ## Food
 - [ ] 
 ## Misc
@@ -40,6 +40,7 @@
 - [ ] Battery Packs x2
 - [ ] Kindle
 - [ ] Earbuds
+- [ ] Pillow
 ## Shopping List
 - [ ] Hotdogs
 - [ ] Buns
