@@ -23,7 +23,7 @@
 - [ ] Shoes x2?
 ## Camp Supplies
 - [ ] Chair??
-- [ ] Tent
+- [x] Tent
 - [ ] Sleeping Pad
 - [ ] Sleeping Bag Liner / Sheet
 - [ ] Tarp / Stakes
