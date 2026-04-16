@@ -40,6 +40,7 @@
 - [ ] Battery Packs x2
 - [ ] Kindle
 - [ ] Earbuds
+- [ ] Pillow
 ## Shopping List
 - [ ] Hotdogs
 - [ ] Buns
