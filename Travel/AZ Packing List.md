@@ -25,7 +25,7 @@
 - [ ] Chair??
 - [x] Tent
 - [ ] Sleeping Pad
-- [x] Sleeping Bag Liner / Sheet
+- [ ] Sleeping Bag Liner / Sheet
 - [ ] Tarp / Stakes
 - [ ] Stove / Pot
 ## Food
