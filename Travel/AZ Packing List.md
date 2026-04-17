@@ -15,7 +15,7 @@
 - [ ] Mesh Shirt
 - [ ] Regular Hoodie
 - [x] Pants
-- [ ] Shorts
+- [x] Shorts
 - [ ] Swim Trunks
 - [ ] Hat
 - [ ] Rain Jacket
