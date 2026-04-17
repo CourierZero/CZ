@@ -3,7 +3,7 @@
 - [ ] Toothpaste
 - [x] Deodorant
 - [x] Floss
-- [x] Soap
+- [ ] Soap
 - [ ] Washcloths
 - [ ] Disposable Washcloths
 - [ ] Hair Paste
