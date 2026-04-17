@@ -8,7 +8,7 @@
 - [x] Disposable Washcloths
 - [ ] Hair Paste
 ## Clothes
-- [ ] Underwear x8
+- [x] Underwear x8
 - [ ] Socks x8
 - [ ] T-Shirts x5
 - [ ] Sunhoodies x2
