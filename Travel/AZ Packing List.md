@@ -24,7 +24,7 @@
 ## Camp Supplies
 - [ ] Chair??
 - [x] Tent
-- [ ] Sleeping Pad
+- [x] Sleeping Pad
 - [ ] Sleeping Bag Liner / Sheet
 - [ ] Tarp / Stakes
 - [ ] Stove / Pot
