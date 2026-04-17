@@ -5,7 +5,7 @@
 - [x] Floss
 - [x] Soap
 - [ ] Washcloths
-- [x] Disposable Washcloths
+- [ ] Disposable Washcloths
 - [ ] Hair Paste
 ## Clothes
 - [ ] Underwear x8
