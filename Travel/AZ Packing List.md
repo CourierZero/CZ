@@ -1,6 +1,6 @@
 ## Hygiene
 - [x] Toothbrush
-- [ ] Toothpaste
+- [x] Toothpaste
 - [ ] Deodorant
 - [x] Floss
 - [ ] Soap
