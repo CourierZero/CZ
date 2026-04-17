@@ -14,7 +14,7 @@
 - [ ] Sunhoodies x2
 - [ ] Mesh Shirt
 - [ ] Regular Hoodie
-- [ ] Pants
+- [x] Pants
 - [ ] Shorts
 - [ ] Swim Trunks
 - [ ] Hat
