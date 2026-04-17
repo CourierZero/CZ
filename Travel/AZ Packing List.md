@@ -26,7 +26,7 @@
 - [ ] Tent
 - [ ] Sleeping Pad
 - [ ] Sleeping Bag Liner / Sheet
-- [x] Tarp / Stakes
+- [ ] Tarp / Stakes
 - [x] Stove / Pot
 ## Food
 - [ ] 
