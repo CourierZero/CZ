@@ -9,7 +9,7 @@
 - [ ] Hair Paste
 ## Clothes
 - [x] Underwear x8
-- [ ] Socks x8
+- [x] Socks x8
 - [ ] T-Shirts x5
 - [ ] Sunhoodies x2
 - [ ] Mesh Shirt
