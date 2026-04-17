@@ -18,7 +18,7 @@
 - [x] Shorts
 - [x] Swim Trunks
 - [ ] Hat
-- [ ] Rain Jacket
+- [x] Rain Jacket
 - [ ] Camp Slippers
 - [ ] Shoes x2?
 ## Camp Supplies
