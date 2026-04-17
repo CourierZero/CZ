@@ -28,6 +28,7 @@
 - [ ] Sleeping Bag Liner / Sheet
 - [ ] Tarp / Stakes
 - [ ] Stove / Pot
+- [ ] Pillow
 ## Food
 - [ ] 
 ## Misc
