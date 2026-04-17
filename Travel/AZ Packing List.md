@@ -12,7 +12,7 @@
 - [x] Socks x8
 - [ ] T-Shirts x5
 - [ ] Sunhoodies x2
-- [ ] Mesh Shirt
+- [x] Mesh Shirt
 - [ ] Regular Hoodie
 - [x] Pants
 - [x] Shorts
