@@ -16,7 +16,7 @@
 - [ ] Regular Hoodie
 - [x] Pants
 - [x] Shorts
-- [ ] Swim Trunks
+- [x] Swim Trunks
 - [ ] Hat
 - [ ] Rain Jacket
 - [ ] Camp Slippers
