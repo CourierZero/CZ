@@ -4,7 +4,7 @@
 - [x] Deodorant
 - [x] Floss
 - [x] Soap
-- [ ] Washcloths
+- [x] Washcloths
 - [x] Disposable Washcloths
 - [ ] Hair Paste
 ## Clothes
