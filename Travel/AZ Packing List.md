@@ -19,7 +19,7 @@
 - [x] Swim Trunks
 - [ ] Hat
 - [x] Rain Jacket
-- [ ] Camp Slippers
+- [x] Camp Slippers
 - [ ] Shoes x2?
 ## Camp Supplies
 - [ ] Chair??
