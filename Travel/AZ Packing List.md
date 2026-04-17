@@ -11,7 +11,7 @@
 - [x] Underwear x8
 - [x] Socks x8
 - [x] T-Shirts x5
-- [ ] Sunhoodies x2
+- [x] Sunhoodies x2
 - [x] Mesh Shirt
 - [ ] Regular Hoodie
 - [x] Pants
