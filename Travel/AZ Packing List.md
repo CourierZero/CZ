@@ -43,7 +43,7 @@
 - [ ] Earbuds
 - [ ] Pillow
 ## Shopping List
-- [ ] Hotdogs
+- [x] Hotdogs
 - [ ] Buns
 - [ ] Mustard
 - [ ] Onions
