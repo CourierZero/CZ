@@ -48,7 +48,7 @@
 - [ ] Mustard
 - [ ] Onions
 - [ ] Kielbasa
-- [ ] Potatoes
+- [x] Potatoes
 - [x] Peppers
 - [ ] Asparagus
 - [ ] Butter
