@@ -49,7 +49,7 @@
 - [ ] Onions
 - [ ] Kielbasa
 - [ ] Potatoes
-- [ ] Peppers
+- [x] Peppers
 - [ ] Asparagus
 - [ ] Butter
 - [ ] Salt
