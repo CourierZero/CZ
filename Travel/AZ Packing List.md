@@ -4,30 +4,31 @@
 - [x] Deodorant
 - [x] Floss
 - [x] Soap
-- [ ] Washcloths
+- [x] Washcloths
 - [x] Disposable Washcloths
 - [ ] Hair Paste
 ## Clothes
-- [ ] Underwear x8
-- [ ] Socks x8
-- [ ] T-Shirts x5
-- [ ] Sunhoodies x2
-- [ ] Mesh Shirt
+- [x] Underwear x8
+- [x] Socks x8
+- [x] T-Shirts x5
+- [x] Sunhoodies x2
+- [x] Mesh Shirt
 - [ ] Regular Hoodie
-- [ ] Pants
-- [ ] Shorts
-- [ ] Swim Trunks
+- [x] Pants
+- [x] Shorts
+- [x] Swim Trunks
 - [ ] Hat
-- [ ] Rain Jacket
-- [ ] Camp Slippers
+- [x] Rain Jacket
+- [x] Camp Slippers
 - [ ] Shoes x2?
 ## Camp Supplies
-- [ ] Chair??
+- [x] Chair??
 - [x] Tent
 - [x] Sleeping Pad
-- [ ] Sleeping Bag Liner / Sheet
+- [x] Sleeping Bag Liner / Sheet
 - [x] Tarp / Stakes
 - [x] Stove / Pot
+- [ ] Pillow
 ## Food
 - [ ] 
 ## Misc
@@ -42,13 +43,13 @@
 - [ ] Earbuds
 - [ ] Pillow
 ## Shopping List
-- [ ] Hotdogs
+- [x] Hotdogs
 - [ ] Buns
 - [ ] Mustard
 - [ ] Onions
 - [ ] Kielbasa
-- [ ] Potatoes
-- [ ] Peppers
+- [x] Potatoes
+- [x] Peppers
 - [ ] Asparagus
 - [ ] Butter
 - [ ] Salt
