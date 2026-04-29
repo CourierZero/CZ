@@ -1,26 +1,6 @@
 Year | Date | Day | Note
 -|-|-|-
 2026 | 4/9 | Thu | Reserve Porcupine Mountain Sites - https:-midnrreservations.com/
-2026 | 4/10 | Fri | 
-2026 | 4/11 | ***Sat*** | Brewers Bus - 12:30
-2026 | 4/12 | ***Sun*** | 
-2026 | 4/13 | Mon | 
-2026 | 4/14 | Tue | T-Rats
-2026 | 4/15 | Wed | 
-2026 | 4/16 | Thu | 
-2026 | 4/17 | Fri | New Moon
-2026 | 4/18 | ***Sat*** | Start Arizona
-2026 | 4/19 | ***Sun*** | To Sedona
-2026 | 4/20 | ***Mon*** | Sedona
-2026 | 4/21 | ***Tue*** | To Paria
-2026 | 4/22 | ***Wed*** | To Bryce - AL Permit
-||||https:-www.recreation.gov/permits/4675326
-2026 | 4/23 | ***Thu*** | To Zion
-2026 | 4/24 | ***Fri*** | Zion
-2026 | 4/25 | ***Sat*** | To Hoover Dam
-2026 | 4/26 | ***Sun*** | End Arizona
-2026 | 4/27 | Mon | 
-2026 | 4/28 | Tue | T-Rats
 2026 | 4/29 | Wed | 
 2026 | 4/30 | Thu | 
 2026 | 5/1 | Fri | 
@@ -29,7 +9,7 @@ Year | Date | Day | Note
 2026 | 5/4 | Mon | 
 2026 | 5/5 | Tue | 
 2026 | 5/6 | Wed | 
-2026 | 5/7 | Thu | 
+2026 | 5/7 | Thu | BFF Lunch, Gloomhaven
 2026 | 5/8 | Fri | 
 2026 | 5/9 | ***Sat*** | 
 2026 | 5/10 | ***Sun*** | 
@@ -45,7 +25,7 @@ Year | Date | Day | Note
 2026 | 5/20 | Wed | 
 2026 | 5/21 | Thu | 
 2026 | 5/22 | Fri | 
-2026 | 5/23 | ***Sat*** | 
+2026 | 5/23 | ***Sat*** | Brewers w/ Sam?
 2026 | 5/24 | ***Sun*** | 
 2026 | 5/25 | -Mon- | Memorial Day
 2026 | 5/26 | Tue | T-Rats
