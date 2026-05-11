@@ -1,18 +1,6 @@
 Year | Date | Day | Note
 -|-|-|-
 2026 | 4/9 | Thu | Reserve Porcupine Mountain Sites - https:-midnrreservations.com/
-2026 | 4/29 | Wed | 
-2026 | 4/30 | Thu | 
-2026 | 5/1 | Fri | 
-2026 | 5/2 | ***Sat*** | 
-2026 | 5/3 | ***Sun*** | 
-2026 | 5/4 | Mon | 
-2026 | 5/5 | Tue | 
-2026 | 5/6 | Wed | 
-2026 | 5/7 | Thu | BFF Lunch, Gloomhaven
-2026 | 5/8 | Fri | 
-2026 | 5/9 | ***Sat*** | 
-2026 | 5/10 | ***Sun*** | 
 2026 | 5/11 | Mon | 
 2026 | 5/12 | Tue | T-Rats
 2026 | 5/13 | Wed | 
@@ -25,7 +13,7 @@ Year | Date | Day | Note
 2026 | 5/20 | Wed | 
 2026 | 5/21 | Thu | 
 2026 | 5/22 | Fri | 
-2026 | 5/23 | ***Sat*** | Brewers w/ Sam?
+2026 | 5/23 | ***Sat*** | Brewers and Zoo
 2026 | 5/24 | ***Sun*** | 
 2026 | 5/25 | -Mon- | Memorial Day
 2026 | 5/26 | Tue | T-Rats
@@ -52,16 +40,16 @@ Year | Date | Day | Note
 2026 | 6/16 | Tue | 
 2026 | 6/17 | Wed | 
 2026 | 6/18 | Thu | ThedaCare 3pm
-2026 | 6/19 | Fri | 
-2026 | 6/20 | ***Sat*** | 
+2026 | 6/19 | Fri | Mason Moving
+2026 | 6/20 | ***Sat*** | John's Birthday
 2026 | 6/21 | ***Sun*** | 
 2026 | 6/22 | Mon | 
 2026 | 6/23 | Tue | T-Rats
 2026 | 6/24 | Wed | 
 2026 | 6/25 | Thu | ?? T-Rats Udder Tugger Sticker
-2026 | 6/26 | Fri | ?? T-Rats Miz Jersey
-2026 | 6/27 | ***Sat*** | 
-2026 | 6/28 | ***Sun*** | 
+2026 | 6/26 | Fri | ?? T-Rats Miz Jersey , Mother Visit
+2026 | 6/27 | ***Sat*** | Mother Visit
+2026 | 6/28 | ***Sun*** | Mother Visit
 2026 | 6/29 | Mon | 
 2026 | 6/30 | Tue | 
 2026 | 7/1 | Wed | 
