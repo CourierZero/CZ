@@ -5,7 +5,7 @@ Year | Date | Day | Note
 2026 | 5/12 | Tue | T-Rats
 2026 | 5/13 | Wed | 
 2026 | 5/14 | Thu | 
-2026 | 5/15 | Fri | 
+2026 | 5/15 | Fri | Obsession Release
 2026 | 5/16 | ***Sat*** | New Moon
 2026 | 5/17 | ***Sun*** | 
 2026 | 5/18 | Mon | 
@@ -19,7 +19,7 @@ Year | Date | Day | Note
 2026 | 5/26 | Tue | T-Rats
 2026 | 5/27 | Wed | 
 2026 | 5/28 | Thu | 
-2026 | 5/29 | Fri | 
+2026 | 5/29 | Fri | Backrooms Release Date
 2026 | 5/30 | ***Sat*** | 
 2026 | 5/31 | ***Sun*** | 
 2026 | 6/1 | Mon | 
