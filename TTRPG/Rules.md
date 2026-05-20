@@ -4,26 +4,56 @@
   - Creative Solutions
   - Risky / Daring Plays
   - Considered Approaches
-  - Planning / Preperation
-- **Exploding Dice (once)
+  - Planning / Preparation
+- **Exploding Dice
 - Called Shots
+- Advantage more fun than bonuses, stacking advantages?
+DCs
+-Trivial: 1
+-Easy: 3
+- Moderate: 5
+- Challenging: 7
+- Difficult: 9
+- Nearly Impossible: 11
+- Legendary: 13
 
 # Skills / Traits
 - Knowledge of a subject
   -  Based on character story / experiences
 -  Skill in weapons based on familiarity
+
+Strength
+Agility
+Intelligence
+Charisma
+Endurance
 # Combat
 Per Turn:
 - 1 Movement Action (Stride, Step, Feint, Prone, Stand, Dodge)
 - X Additional Actions (Movement, Attack, Prepare)
-D12 + Bonuses vs DC
+D12 + Bonuses vs DC (Melee, Ranged, Mental)
+  Melee DC   -  X + Agility + Size Modifier + Armor & Weapon Bonuses - Armor & Weapon Penalties + Situational Modifiers
+  Ranged DC - X + Size Modifier + Cover / Situational Modifiers
+  Mental DC  - 
+
+
+\+ Advantages:
+- Prone
+- Distracted
+- Muddled
+- Sneak Attack
+
+\- Disadvantages
+- Prone
+- Distracted
+
 
 ## Physical 
 Connect > Armor > Damage
 Connect > (Damage - Armor/Resistances) (min 1)
 Exact equal roll on Connect = 1/2 damage?
 
-Damage Roll - Exploding Dice?
+Damage Roll - 2 dYs, Exploding, +Z on doubles (+Z bonus not statistically  important)
 
 ## Magical
 Connect > (Power - Resistances)
