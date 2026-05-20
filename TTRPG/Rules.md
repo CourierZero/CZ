@@ -46,7 +46,8 @@ Offer a choice every x hours (e.g. Go over the mountains v. Through the mines, G
 
 Can Drain health/resources
 
-
+# Cities
+Limit Options to things relevant/interesting to the PCs
 # Crawling
 10 Minute stretches
 
