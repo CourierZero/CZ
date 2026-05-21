@@ -17,6 +17,16 @@ DCs
 - Nearly Impossible: 11
 - Legendary: 13
 
+Weapons / Armor / Tools break on a critical fail, Items have 3hp, 1hp if cobbled together
+
+Each session should have a dramatic question, if the main question needs to be yes, choose a different question that can fail. (Can they do it before... Do they also rescue...)
+
+Add or remove padding to answer the main question in each session
+
+If the players get past the main question and choose a new route, pad.
+
+End each session on a cliffhanger
+
 # Skills / Traits
 - Knowledge of a subject
   -  Based on character story / experiences
@@ -55,38 +65,19 @@ Exact equal roll on Connect = 1/2 damage?
 
 Damage Roll - 2 dYs, Exploding, +Z on doubles (+Z bonus not statistically  important)
 
-Damage Rolls
-Dagger - 2d6
-Sword - 2d8
-Bastard Sword - 2d10
-Warhammer - 2d12
-
-
 ## Magical
 Connect > (Power - Resistances)
 
 
 D12 + Bonuses vs
-# Weapons
-Start at -1 prof, -2 for strange weapons, x-1 if familiar with a similar weapon, x-2 if it's only vaguely similar. 
-
-If weapon is significantly altered it loses a prof level.
 # Travel
 Offer a choice every x hours (e.g. Go over the mountains v. Through the mines, Go around or through potential ambush)
 
 Can Drain health/resources
 
-# Cities
-Limit Options to things relevant/interesting to the PCs
+
 # Crawling
 10 Minute stretches
 
 Make time matter - Wandering patrols/monsters, boss becomes more prepared
 # Downtime
-# Quirks
-- Strange Hands - Weapons not made for your hands start at -2 prof, and can't increase past +2
-- Familiarity with improvised weapons, 
-
-# Testing
-rolling to disarm a man, called shot
-called shot penalty - 4
