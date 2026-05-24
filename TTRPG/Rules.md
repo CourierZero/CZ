@@ -7,16 +7,82 @@
   - Planning / Preperation
 - **Exploding Dice (once)
 - Called Shots
+- Weapons gain abilities at certain proficiency levels
+- No Classes, Just player traits
 
 # Skills / Traits
-- Knowledge of a subject
+## Weapon Skills
+- Cleave
+- Double Strike
+- 
+## Class Alternative Features
+### Alchemist
+- Quick Alchemy, Make potions in combat
+- Secret Ingredient, More powerful potions
+- Far Lobber, throw farther (reduce far penalty)
+- Altered Metabolism, Can end any positive potions effects to heal
+- Poison Resistance
+- Pinch of Gunpowder, splash potions have a wider radius
+- Higher Tolerance, can consume 2 elixirs at once
+- Permanent Mutation
+
+
+- Remote Trigger
+- Sticky Bombs
+- Potion Recipes, learn a new potion recipe
+
+### Barbarian
+- Rage, Less defense, more offense, cant concentrate (use 3 action activities)
+- Focused Rage, (can use 3 action activites)
+- Passing Strike, Attack once as part of your move while not raging
+- Eldritch Rage, Breath weapons (Fus Ro Dah)
+- 
+
+### Bard
+-
+
+###  Cleric
+-
+
+###  Druid
+-
+
+### Fighter
+-
+
+###  Monk
+-
+
+### Paladin
+-
+
+###  Ranger
+-
+
+###  Rogue
+-
+
+###  Sorcerer
+-
+
+### Wizard
+-
+
+
+Knowledge of a subject
   -  Based on character story / experiences
 -  Skill in weapons based on familiarity
+-  Brawny, allows use of large d12 weapons,
+-  Tough Skin, more defense, less agility
+-  Odd hands, need special weapons, penalty with regular weapons
+-  
 # Combat
 Per Turn:
 - 1 Movement Action (Stride, Step, Feint, Prone, Stand, Dodge)
 - X Additional Actions (Movement, Attack, Prepare)
 D12 + Bonuses vs DC
+
+
 
 ## Physical 
 Connect > Armor > Damage
