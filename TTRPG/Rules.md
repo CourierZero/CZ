@@ -4,43 +4,34 @@
   - Creative Solutions
   - Risky / Daring Plays
   - Considered Approaches
-  - Planning / Preparation
-- **Exploding Dice
+  - Planning / Preperation
+- **Exploding Dice (once)
 - Called Shots
-
-:::conflict{variant=a}
 - Weapons gain abilities at certain proficiency levels
 - No Classes, Just player traits
-:::
 
-:::conflict{variant=d}
-- Advantage more fun than bonuses, stacking advantages?
-DCs
--Trivial: 1
--Easy: 3
-- Moderate: 5
-- Challenging: 7
-- Difficult: 9
-- Nearly Impossible: 11
-- Legendary: 13
-:::
 
-Weapons / Armor / Tools break on a critical fail, Items have 3hp, 1hp if cobbled together
+# DM Advice
+## NPCs
+**Name, Physical Trait, Fear, Resource**
+## Social
+- Wait until PCs are established before resorting to open forum encounters
+- 
+## Combat
 
-Each session should have a dramatic question, if the main question needs to be yes, choose a different question that can fail. (Can they do it before... Do they also rescue...)
+## Exploration
 
-Add or remove padding to answer the main question in each session
-
-If the players get past the main question and choose a new route, pad.
-
-End each session on a cliffhanger
+## Misc
 
 # Skills / Traits
 ## Weapon Skills
 - Cleave
 - Double Strike
-- 
-## Class Alternative Features
+
+## Social Skills
+
+
+## Class Alternative Skills
 ### Alchemist
 - Quick Alchemy, Make potions in combat
 - Secret Ingredient, More powerful potions
@@ -97,71 +88,65 @@ End each session on a cliffhanger
 Knowledge of a subject
   -  Based on character story / experiences
 -  Skill in weapons based on familiarity
-
-:::conflict{variant=a}
 -  Brawny, allows use of large d12 weapons,
 -  Tough Skin, more defense, less agility
 -  Odd hands, need special weapons, penalty with regular weapons
 -  
-:::
-
-:::conflict{variant=d}
-
-Strength
-Agility
-Intelligence
-Charisma
-Endurance
-:::
 # Combat
 Per Turn:
 - 1 Movement Action (Stride, Step, Feint, Prone, Stand, Dodge)
 - X Additional Actions (Movement, Attack, Prepare)
-D12 + Bonuses vs DC (Melee, Ranged, Mental)
-  Melee DC   -  X + Agility + Size Modifier + Armor & Weapon Bonuses - Armor & Weapon Penalties + Situational Modifiers
-  Ranged DC - X + Size Modifier + Cover / Situational Modifiers
-  Mental DC  - 
+D12 + Bonuses vs DC
 
 
-:::conflict{variant=a}
 
-
-:::
-
-:::conflict{variant=d}
-
-\+ Advantages:
-- Prone
-- Distracted
-- Muddled
-- Sneak Attack
-
-\- Disadvantages
-- Prone
-- Distracted
-
-
-:::
 ## Physical 
 Connect > Armor > Damage
 Connect > (Damage - Armor/Resistances) (min 1)
 Exact equal roll on Connect = 1/2 damage?
 
-Damage Roll - 2 dYs, Exploding, +Z on doubles (+Z bonus not statistically  important)
+Damage Roll - Exploding Dice?
+
+Damage Rolls
+Dagger - 2d6
+Sword - 2d8
+Bastard Sword - 2d10
+Warhammer - 2d12
+
 
 ## Magical
 Connect > (Power - Resistances)
 
 
 D12 + Bonuses vs
+# Weapons
+Start at -1 prof, -2 for strange weapons, x-1 if familiar with a similar weapon, x-2 if it's only vaguely similar. 
+
+If weapon is significantly altered it loses a prof level.
 # Travel
 Offer a choice every x hours (e.g. Go over the mountains v. Through the mines, Go around or through potential ambush)
 
 Can Drain health/resources
 
-
+# Cities
+Limit Options to things relevant/interesting to the PCs
 # Crawling
 10 Minute stretches
 
 Make time matter - Wandering patrols/monsters, boss becomes more prepared
 # Downtime
+# Quirks
+- Strange Hands - Weapons not made for your hands start at -2 prof, and can't increase past +2
+- Familiarity with improvised weapons, 
+# Resources
+## Places
+### Names
+### Traits
+## Characters
+### Names
+### Traits
+### Fear
+### Resource
+# Testing
+rolling to disarm a man, called shot
+called shot penalty - 4
