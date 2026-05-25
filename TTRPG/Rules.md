@@ -14,8 +14,12 @@
 # DM Advice
 ## NPCs
 **Name, Physical Trait, Fear, Resource**
+
 ## Social
 - Wait until PCs are established before resorting to open forum encounters
+- NPCs should give actionable intel
+- Have NPCs around when PCs are planning that can be the voice of the DM
+## Negotiation
 - 
 ## Combat
 
@@ -137,7 +141,8 @@ Make time matter - Wandering patrols/monsters, boss becomes more prepared
 # Downtime
 # Quirks
 - Strange Hands - Weapons not made for your hands start at -2 prof, and can't increase past +2
-- Familiarity with improvised weapons, 
+- Familiarity with improvised weapons,
+  
 # Resources
 ## Places
 ### Names
@@ -147,6 +152,7 @@ Make time matter - Wandering patrols/monsters, boss becomes more prepared
 ### Traits
 ### Fear
 ### Resource
+
 # Testing
 rolling to disarm a man, called shot
 called shot penalty - 4
