@@ -1,14 +1,6 @@
 Year | Date | Day | Note
 -|-|-|-
 2026 | 4/9 | Thu | Reserve Porcupine Mountain Sites - https:-midnrreservations.com/
-2026 | 5/18 | Mon | 
-2026 | 5/19 | Tue | 
-2026 | 5/20 | Wed | 
-2026 | 5/21 | Thu | 
-2026 | 5/22 | Fri | 
-2026 | 5/23 | ***Sat*** | Brewers and Zoo
-2026 | 5/24 | ***Sun*** | 
-2026 | 5/25 | -Mon- | Memorial Day
 2026 | 5/26 | Tue | T-Rats
 2026 | 5/27 | Wed | 
 2026 | 5/28 | Thu | 
@@ -16,7 +8,7 @@ Year | Date | Day | Note
 2026 | 5/30 | ***Sat*** | 
 2026 | 5/31 | ***Sun*** | 
 2026 | 6/1 | Mon | 
-2026 | 6/2 | Tue | 
+2026 | 6/2 | Tue | Backrooms - 6pm
 2026 | 6/3 | Wed | 
 2026 | 6/4 | Thu | 
 2026 | 6/5 | Fri | 
