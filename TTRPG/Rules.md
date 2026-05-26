@@ -31,6 +31,11 @@
 ## Weapon Skills
 - Cleave
 - Double Strike
+- Reach
+- Crush
+- Pierce
+- Parry
+- Riposte
 
 ## Social Skills
 
@@ -51,43 +56,25 @@
 - Sticky Bombs
 - Potion Recipes, learn a new potion recipe
 
-### Barbarian
+### Martial
 - Rage, Less defense, more offense, cant concentrate (use 3 action activities)
 - Focused Rage, (can use 3 action activites)
 - Passing Strike, Attack once as part of your move while not raging
-- Eldritch Rage, Breath weapons (Fus Ro Dah)
+- Shrug it off, ignore a source of damage once per XX
+- Steady Base, Harder to move or knock down
+- Lunge, Strike from near while moving to engaged
+- Retribution, Advantage against targets that have damaged an ally in the last round.
 - 
 
-### Bard
--
+### Magical
+- Prepared Spell, Have one multi-action spell ready to cast for 1 action
+- Bardic Inspiration, Spend 10 minutes playing a song to give allies an advantage to use in next combat.
 
-###  Cleric
--
-
-###  Druid
--
-
-### Fighter
--
-
-###  Monk
--
-
-### Paladin
--
-
-###  Ranger
--
-
-###  Rogue
--
-
-###  Sorcerer
--
-
-### Wizard
--
-
+### Hybrid / Misc
+-  Eldritch Rage, Breath weapons (Fus Ro Dah)
+-  Divine Guidance, +XX on rolls related to your mission, -XX on rolls unrelated
+-  Chosen One, +2XX / -2XX
+-  Well Studied, Can roll for knowledge on any subject
 
 Knowledge of a subject
   -  Based on character story / experiences
@@ -101,6 +88,8 @@ Per Turn:
 - 1 Movement Action (Stride, Step, Feint, Prone, Stand, Dodge)
 - X Additional Actions (Movement, Attack, Prepare)
 D12 + Bonuses vs DC
+
+Resistances, Require an additional raise to do damage
 
 
 
