@@ -64,17 +64,32 @@
 - Steady Base, Harder to move or knock down
 - Lunge, Strike from near while moving to engaged
 - Retribution, Advantage against targets that have damaged an ally in the last round.
+- Inspire, Hitting with a raise gives Allies an advantage against the target for 1 round
+- Merciful, non-lethal strikes have no penalty
+- Shield warden, can give shield bonus to engaged allies
 - 
 
 ### Magical
 - Prepared Spell, Have one multi-action spell ready to cast for 1 action
 - Bardic Inspiration, Spend 10 minutes playing a song to give allies an advantage to use in next combat.
-
-### Hybrid / Misc
--  Eldritch Rage, Breath weapons (Fus Ro Dah)
+- Sense _______, You are magically attuned to __________ and can sense it at range XX
+- Aura of ______, grants near allies resistance
+- Eldritch Rage, Breath weapons (Fus Ro Dah)
 -  Divine Guidance, +XX on rolls related to your mission, -XX on rolls unrelated
 -  Chosen One, +2XX / -2XX
+-  Friend of animals, Can request simple tasks of neutral or friendly animals
+-  Speak to animals, can have simple conversations with animals
+-  Speak for the Trees, can have very simple convesations with plants
+-  Initimidating Glare,
+-  Bound Weapon
+-  Absorb Scroll
+
+### Hybrid / Misc
 -  Well Studied, Can roll for knowledge on any subject
+-  Resistance to ________
+-  Bonus against evil / good creatures.
+-  Animal Husbandry, animals you purchase / raise are better
+
 
 Knowledge of a subject
   -  Based on character story / experiences
