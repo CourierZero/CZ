@@ -1,8 +1,6 @@
 Year | Date | Day | Note
 -|-|-|-
 2026 | 4/9 | Thu | Reserve Porcupine Mountain Sites - https:-midnrreservations.com/
-2026 | 6/15 | Mon | 
-2026 | 6/16 | Tue | 
 2026 | 6/17 | Wed | 
 2026 | 6/18 | Thu | ThedaCare 3pm
 2026 | 6/19 | Fri | Mason Moving
@@ -14,11 +12,11 @@ Year | Date | Day | Note
 2026 | 6/25 | Thu | ?? T-Rats Udder Tugger Sticker
 2026 | 6/26 | Fri | ?? T-Rats Miz Jersey , Mother Visit
 2026 | 6/27 | ***Sat*** | Mother Visit
-2026 | 6/28 | ***Sun*** | Mother Visit
-2026 | 6/29 | Mon | 
-2026 | 6/30 | Tue | 
-2026 | 7/1 | Wed | 
-2026 | 7/2 | Thu | 
+2026 | 6/28 | ***Sun*** | Mother Visit, Dog Sit
+2026 | 6/29 | Mon | Dog Sit
+2026 | 6/30 | Tue | Dog Sit
+2026 | 7/1 | Wed | Dog Sit
+2026 | 7/2 | Thu | Dog Sit
 2026 | 7/3 | Fri | Camping
 2026 | 7/4 | ***Sat*** | Camping - July 4th
 2026 | 7/5 | ***Sun*** | Camping
