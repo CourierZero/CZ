@@ -1,53 +1,8 @@
 Year | Date | Day | Note
 -|-|-|-
-2026 | 4/9 | Thu | Reserve Porcupine Mountain Sites - https:-midnrreservations.com/
-2026 | 6/17 | Wed | 
-2026 | 6/18 | Thu | ThedaCare 3pm
-2026 | 6/19 | Fri | Mason Moving
-2026 | 6/20 | ***Sat*** | John's Birthday
-2026 | 6/21 | ***Sun*** | 
-2026 | 6/22 | Mon | 
-2026 | 6/23 | Tue | T-Rats
-2026 | 6/24 | Wed | 
-2026 | 6/25 | Thu | ?? T-Rats Udder Tugger Sticker
-2026 | 6/26 | Fri | ?? T-Rats Miz Jersey , Mother Visit
-2026 | 6/27 | ***Sat*** | Mother Visit
-2026 | 6/28 | ***Sun*** | Mother Visit, Dog Sit
-2026 | 6/29 | Mon | Dog Sit
-2026 | 6/30 | Tue | Dog Sit
-2026 | 7/1 | Wed | Dog Sit
-2026 | 7/2 | Thu | Dog Sit
-2026 | 7/3 | Fri | Camping
-2026 | 7/4 | ***Sat*** | Camping - July 4th
-2026 | 7/5 | ***Sun*** | Camping
-2026 | 7/6 | Mon | 
-2026 | 7/7 | Tue | T-Rats
-2026 | 7/8 | Wed | 
-2026 | 7/9 | Thu | 
-2026 | 7/10 | Fri | Birthday
-2026 | 7/11 | ***Sat*** | 
-2026 | 7/12 | ***Sun*** | ?? T-Rats Brewers Hat
-2026 | 7/13 | Mon | 
-2026 | 7/14 | Tue | 
-2026 | 7/15 | Wed | 
-2026 | 7/16 | Thu | 
-2026 | 7/17 | Fri | The Odyssey
-2026 | 7/18 | ***Sat*** | 
-2026 | 7/19 | ***Sun*** | 
-2026 | 7/20 | Mon | 
-2026 | 7/21 | Tue | 
-2026 | 7/22 | Wed | 
-2026 | 7/23 | Thu | 
-2026 | 7/24 | Fri | 
-2026 | 7/25 | ***Sat*** | 
-2026 | 7/26 | ***Sun*** | 
-2026 | 7/27 | Mon | 
-2026 | 7/28 | Tue | T-Rats
-2026 | 7/29 | Wed | 
-2026 | 7/30 | Thu | 
 2026 | 7/31 | Fri | 
 2026 | 8/1 | ***Sat*** | 
-2026 | 8/2 | ***Sun*** | ?? T-Rats Seat Cushion
+2026 | 8/2 | ***Sun*** | Spider-Man Brand New Day
 2026 | 8/3 | Mon | 
 2026 | 8/4 | Tue | 
 2026 | 8/5 | Wed | Naruto Jersey Brewer's Game
@@ -81,9 +36,9 @@ Year | Date | Day | Note
 2026 | 9/2 | Wed | 
 2026 | 9/3 | Thu | 
 2026 | 9/4 | Fri | 
-2026 | 9/5 | ***Sat*** | 
-2026 | 9/6 | ***Sun*** | 
-2026 | 9/7 | -Mon- | Labor Day
+2026 | 9/5 | ***Sat*** | Labor Day Camping
+2026 | 9/6 | ***Sun*** | Labor Day Camping
+2026 | 9/7 | -Mon- | Labor Day Camping
 2026 | 9/8 | Tue | 
 2026 | 9/9 | Wed | 
 2026 | 9/10 | Thu | 
@@ -108,23 +63,23 @@ Year | Date | Day | Note
 2026 | 9/29 | Tue | 
 2026 | 9/30 | Wed | 
 2026 | 10/1 | Thu | 
-2026 | 10/2 | Fri | Digger Movie
+2026 | 10/2 | Fri | 
 2026 | 10/3 | ***Sat*** | 
 2026 | 10/4 | ***Sun*** | 
 2026 | 10/5 | Mon | 
 2026 | 10/6 | Tue | 
 2026 | 10/7 | Wed | 
 2026 | 10/8 | Thu | 
-2026 | 10/9 | Fri | Porcupine Mountains
-2026 | 10/10 | ***Sat*** | Porcupine Mountains
-2026 | 10/11 | ***Sun*** | Porcupine Mountains
-2026 | 10/12 | Mon | 
-2026 | 10/13 | Tue | 
-2026 | 10/14 | Wed | 
-2026 | 10/15 | Thu | 
-2026 | 10/16 | Fri | 
-2026 | 10/17 | ***Sat*** | 
-2026 | 10/18 | ***Sun*** | 
+2026 | 10/9 | Fri | 
+2026 | 10/10 | ***Sat*** | Shenandoah Trip
+2026 | 10/11 | ***Sun*** | Shenandoah Trip
+2026 | 10/12 | Mon | Shenandoah Trip
+2026 | 10/13 | Tue | Shenandoah Trip
+2026 | 10/14 | Wed | Shenandoah Trip
+2026 | 10/15 | Thu | Shenandoah Trip
+2026 | 10/16 | Fri | Shenandoah Trip
+2026 | 10/17 | ***Sat*** | Shenandoah Trip
+2026 | 10/18 | ***Sun*** | Shenandoah Trip
 2026 | 10/19 | Mon | 
 2026 | 10/20 | Tue | 
 2026 | 10/21 | Wed | 
