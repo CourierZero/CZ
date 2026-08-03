@@ -1,7 +1,7 @@
 Year | Date | Day | Note
 -|-|-|-
 2026 | 8/3 | Mon | 
-2026 | 8/4 | Tue | All-Staff
+2026 | 8/4 | Tue | All-Staff, Door Quote
 2026 | 8/5 | Wed | 
 2026 | 8/6 | Thu | 
 2026 | 8/7 | Fri | Lunch
