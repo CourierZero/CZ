@@ -6,13 +6,13 @@ Year | Date | Day | Note
 2026 | 9/24 | Thu | Keys 2 Hope
 2026 | 9/25 | Fri | 
 2026 | 9/26 | ***Sat*** | Brewers Game
-2026 | 9/27 | ***Sun*** | 
-2026 | 9/28 | Mon | 
-2026 | 9/29 | Tue | 
-2026 | 9/30 | Wed | 
-2026 | 10/1 | Thu | 
-2026 | 10/2 | Fri | 
-2026 | 10/3 | ***Sat*** | 
+2026 | 9/27 | ***Sun*** |  Sports Day
+2026 | 9/28 | Mon | Cartoon Character
+2026 | 9/29 | Tue | Resident Evil, Co-Worker
+2026 | 9/30 | Wed | Band Merch
+2026 | 10/1 | Thu | Pillars Apparel
+2026 | 10/2 | Fri | Flannel
+2026 | 10/3 | ***Sat*** | Tie-Dye
 2026 | 10/4 | ***Sun*** | 
 2026 | 10/5 | Mon | 
 2026 | 10/6 | Tue | 
