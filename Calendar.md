@@ -1,46 +1,11 @@
 Year | Date | Day | Note
 -|-|-|-
-2026 | 9/21 | Mon | 
-2026 | 9/22 | Tue | First Day of Fall
-2026 | 9/23 | Wed | 
-2026 | 9/24 | Thu | Keys 2 Hope
-2026 | 9/25 | Fri | 
-2026 | 9/26 | ***Sat*** | Brewers Game
-2026 | 9/27 | ***Sun*** |  Sports Day
-2026 | 9/28 | Mon | Cartoon Character
-2026 | 9/29 | Tue | Resident Evil, Co-Worker
-2026 | 9/30 | Wed | Band Merch
-2026 | 10/1 | Thu | Pillars Apparel
-2026 | 10/2 | Fri | Flannel
-2026 | 10/3 | ***Sat*** | Tie-Dye
-2026 | 10/4 | ***Sun*** | 
-2026 | 10/5 | Mon | 
-2026 | 10/6 | Tue | 
-2026 | 10/7 | Wed | 
-2026 | 10/8 | Thu | 
-2026 | 10/9 | Fri | 
-2026 | 10/10 | ***Sat*** | Shenandoah Trip
-2026 | 10/11 | ***Sun*** | Shenandoah Trip
-2026 | 10/12 | Mon | Shenandoah Trip
-2026 | 10/13 | Tue | Shenandoah Trip
-2026 | 10/14 | Wed | Shenandoah Trip
-2026 | 10/15 | Thu | Shenandoah Trip
-2026 | 10/16 | Fri | Shenandoah Trip
-2026 | 10/17 | ***Sat*** | Shenandoah Trip
-2026 | 10/18 | ***Sun*** | Shenandoah Trip
-2026 | 10/19 | Mon | 
-2026 | 10/20 | Tue | 
-2026 | 10/21 | Wed | 
-2026 | 10/22 | Thu | 
-2026 | 10/23 | Fri | 
-2026 | 10/24 | ***Sat*** | 
-2026 | 10/25 | ***Sun*** | 
-2026 | 10/26 | Mon | 
-2026 | 10/27 | Tue | 
-2026 | 10/28 | Wed | 
+2026 | 10/26 | Mon | Brewers
+2026 | 10/27 | Tue | Brewers
+2026 | 10/28 | Wed | Brewers
 2026 | 10/29 | Thu | 
-2026 | 10/30 | Fri | 
-2026 | 10/31 | ***Sat*** | Halloween
+2026 | 10/30 | Fri | Brewers
+2026 | 10/31 | ***Sat*** | Halloween / Brewers
 2026 | 11/1 | ***Sun*** | 
 2026 | 11/2 | Mon | 
 2026 | 11/3 | Tue | 
@@ -48,7 +13,7 @@ Year | Date | Day | Note
 2026 | 11/5 | Thu | 
 2026 | 11/6 | Fri | 
 2026 | 11/7 | ***Sat*** | 
-2026 | 11/8 | ***Sun*** | 
+2026 | 11/8 | ***Sun*** | Jury Duty Check
 2026 | 11/9 | Mon | 
 2026 | 11/10 | Tue | 
 2026 | 11/11 | Wed | 
@@ -82,7 +47,7 @@ Year | Date | Day | Note
 2026 | 12/9 | Wed | 
 2026 | 12/10 | Thu | 
 2026 | 12/11 | Fri | 
-2026 | 12/12 | ***Sat*** | 
+2026 | 12/12 | ***Sat*** | Friendsgivmas
 2026 | 12/13 | ***Sun*** | 
 2026 | 12/14 | Mon | 
 2026 | 12/15 | Tue | 
