@@ -11,7 +11,7 @@ Year | Date | Day | Note
 2026 | 11/3 | Tue | 
 2026 | 11/4 | Wed | 
 2026 | 11/5 | Thu | 
-2026 | 11/6 | Fri | 
+2026 | 11/6 | Fri | Building for Kids Art Heist 6-10pm
 2026 | 11/7 | ***Sat*** | 
 2026 | 11/8 | ***Sun*** | Jury Duty Check
 2026 | 11/9 | Mon | 
